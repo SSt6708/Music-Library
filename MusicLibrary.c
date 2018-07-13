@@ -1,12 +1,4 @@
-//
-// APS105 Lab 8 Lab8.c
-//
-// This is a program written to maintain a personal music library, 
-// using a linked list to hold the songs in the library.
-//
-// Author: <Your Name Goes Here>
-// Student Number: <Your Student Number Goes Here>
-//
+
 
 #include <stdio.h>
 #include <stdio.h>
